@@ -92,3 +92,7 @@ brandkit/
 ```
 
 Nothing here phones home or needs an account beyond Claude Code itself.
+
+---
+
+**No Claude Code? Use it in Claude chat instead** — see [CHAT.md](CHAT.md).
