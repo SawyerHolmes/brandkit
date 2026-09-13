@@ -1,0 +1,7 @@
+{
+  "name": "brandkit",
+  "description": "Build on-brand interactive HTML pages. Captures a brand once — palette, fonts, logos, rules — then applies it consistently on every page and verifies the result in a real browser.",
+  "version": "1.0.0",
+  "author": { "name": "Sawyer Holmes" },
+  "skills": "./skills/"
+}

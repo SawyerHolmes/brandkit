@@ -1,0 +1,15 @@
+{
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "echo \"{\\\"hookSpecificOutput\\\":{\\\"hookEventName\\\":\\\"SessionStart\\\",\\\"additionalContext\\\":\\\"BRANDKIT ACTIVE: if the user asks for a web page, landing page, report, form, or any interactive HTML, read ~/.claude/brand/BRAND.md and build it on-brand via the /brand command and the brand-craft skill. If ~/.claude/brand/BRAND.md does not exist yet, tell them to run /brand-setup first. The brand kit's colour tokens and Hard rules are binding; verify every page in a real browser before handing it over.\\\"}}\"",
+            "timeout": 5
+          }
+        ]
+      }
+    ]
+  }
+}

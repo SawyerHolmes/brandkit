@@ -1,0 +1,11 @@
+{
+  "name": "brandkit-marketplace",
+  "owner": { "name": "Sawyer Holmes" },
+  "plugins": [
+    {
+      "name": "brandkit",
+      "source": "./",
+      "description": "Build on-brand interactive HTML pages from a captured brand kit."
+    }
+  ]
+}
